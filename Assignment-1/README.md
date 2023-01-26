@@ -1,0 +1,1 @@
+For assignment 1, I looked at ShaderToy and found this shader that I found particularly interesting: https://www.shadertoy.com/view/3sySRK. The shader in question is called CineShader Lava and I like it because it reminds me of a lava lamp.
