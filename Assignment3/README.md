@@ -1,0 +1,1 @@
+For this assignment, I created a cube a cube that rotates on the X and Y axis, as well as experiments with a perspective function. I also demonstrate knowledge of facedness by using two separate shaders that are applied based on the rotation of the triangles.
