@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Coin Toss Emulator</title>
+
+    <link rel="stylesheet" href="style.css">
+
+    <script src="https://d3js.org/d3.v5.min.js" defer></script>
+    <script src="https://d3js.org/d3-scale.v3.min.js" defer></script>
+    <script src="https://cdn.jsdelivr.net/npm/d3-axis@3"></script>
+    <script src="app.js" defer></script>
+  </head>
+  <body>
+    <div class="background"></div>
+
+    <div class="container">
+      <div class ="coinAndChart">
+        <div class="coin"> 
+        <div class="heads">
+          <img alt="coin heads" src="heads.jpg">
+        </div>
+        
+        
+
+        <div class="tails">
+          <img alt="coin tails" src="tails.jpg">
+        </div>
+      </div>
+
+        <svg></svg>
+        
+      </div>
+
+      
+
+      <div class="buttons">
+        <button id="flip-button">Flip Coin</button>
+        <button id="reset-button">Reset</button>
+      </div>
+    </div>
+  </body>
+</html>
